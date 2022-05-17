@@ -1,0 +1,11 @@
+.player-display {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 60%;
+  gap: 10px;
+}
+
+img {
+  max-width: 100%;
+  cursor: pointer;
+}
